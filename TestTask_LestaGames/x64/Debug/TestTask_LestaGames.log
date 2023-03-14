@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(67,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(67,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(88,61): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(88,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(151,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(167,46): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(167,34): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(309,69): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(309,44): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(320,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(320,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(122,12): warning C4101: dy: неиспользованная локальная переменная
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\main.cpp(122,8): warning C4101: dx: неиспользованная локальная переменная
+  TestTask_LestaGames.vcxproj -> C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\x64\Debug\TestTask_LestaGames.exe

@@ -1,0 +1,22 @@
+﻿  main.cpp
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::String(wchar_t const *)" (__imp_??0String@sf@@QAE@PB_W@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QAEXABV?$Rect@H@2@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B) в функции _main.
+C:\c++ libraries\SFML-2.5.1\lib\sfml-graphics-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\c++ libraries\SFML-2.5.1\lib\sfml-window-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\c++ libraries\SFML-2.5.1\lib\sfml-audio-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\c++ libraries\SFML-2.5.1\lib\sfml-system-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\VIP`s\source\repos\SFML Projects\TestTask_LestaGames\Debug\TestTask_LestaGames.exe : fatal error LNK1120: неразрешенных внешних элементов: 16
